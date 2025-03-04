@@ -1,0 +1,4 @@
+functions/
+mlruns/
+__pycache__/
+.idea/
